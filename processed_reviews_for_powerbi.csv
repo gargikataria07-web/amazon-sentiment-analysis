@@ -1,0 +1,6 @@
+Reviewer Name,Country,Review Date,star_rating,Review Text,sentiment
+John,USA,2024-01-01,5,Great product,Positive
+Sara,UK,2024-01-02,1,Bad quality,Negative
+Ali,India,2024-01-03,3,Average item,Neutral
+Meena,India,2024-01-04,4,Good value,Positive
+Raj,India,2024-01-05,2,Not satisfied,Negative
